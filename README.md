@@ -28,7 +28,7 @@ O projeto **Certificado Automação** é uma ferramenta desenvolvida em Python p
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/certificado_automacao.git
+   git clone https://github.com/Millenac/certificado_automacao.git
    cd certificado_automacao/scripts
    
 2. Instale as dependências: Certifique-se de ter o Python instalado e as bibliotecas necessárias. Você pode instalar as dependências usando o pip:
