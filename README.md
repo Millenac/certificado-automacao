@@ -31,12 +31,12 @@ O projeto **Automação de Certificado** é uma ferramenta desenvolvida em Pytho
    git clone https://github.com/Millenac/certificado_automacao.git
    cd certificado_automacao/scripts
    
-2. Instale as dependências: Certifique-se de ter o Python instalado e as bibliotecas necessárias. Você pode instalar as dependências usando o pip:
+2. **Instale as dependências**: Certifique-se de ter o Python instalado e as bibliotecas necessárias. Você pode instalar as dependências usando o pip:
    ```bash
    pip install pandas fpdf pyautogui
 
-3. Configure a Base de Dados: Adicione os nomes e e-mails dos alunos no arquivo base_dados_copy.csv dentro da pasta banco_dados.
-4. Configure o Template: Coloque sua imagem do template do certificado na pasta certificados e a fonte na pasta fontes.
-5. Execute o Script: Execute o script principal para gerar e enviar os certificados:
+3. **Configure a Base de Dados**: Adicione os nomes e e-mails dos alunos no arquivo base_dados_copy.csv dentro da pasta banco_dados.
+4. **Configure o Template**: Coloque sua imagem do template do certificado na pasta certificados e a fonte na pasta fontes.
+5. **Execute o Script**: Execute o script principal para gerar e enviar os certificados:
    ```bash
    python automacao_certificado.py
