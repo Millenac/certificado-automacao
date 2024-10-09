@@ -12,7 +12,7 @@ O projeto **Certificado Automação** é uma ferramenta desenvolvida em Python p
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**: Linguagem de programação utilizada para desenvolver todo o projeto, aproveitando suas bibliotecas para manipulação de dados e automação.
+- **Python 3**: Linguagem de programação utilizada para desenvolver todo o projeto, aproveitando suas bibliotecas para manipulação de dados e automação.
 
 - **Pandas**: Utilizada para ler e manipular a base de dados em formato CSV. Facilita a extração de nomes e e-mails dos alunos, permitindo o acesso fácil a esses dados.
 
