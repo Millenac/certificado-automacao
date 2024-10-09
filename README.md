@@ -24,26 +24,6 @@ O projeto **Certificado Automação** é uma ferramenta desenvolvida em Python p
 
 - **Time**: Biblioteca padrão do Python que permite controlar o tempo de espera entre as ações automáticas, garantindo que as interações com a interface gráfica ocorram de forma sincronizada e evitando erros devido à velocidade de execução.
 
-
-## Estrutura do Projeto
-
-Automação Certificado/ 
-├── banco_dados/ 
-│ └── base_dados_copy.csv 
-# Base de dados com nomes e e-mails dos alunos 
-├── certificados/ 
-│ └── template.png 
-# Imagem do template do certificado 
-├── fontes/ 
-│ └── PINYONSCRIPT-REGULAR.TTF 
-# Fonte utilizada no certificado 
-└── scripts/ 
-└── automacao_certificado.py 
-└── posicao.py
-# Script principal do projeto
-
-
-
 ## Como Usar
 
 1. **Clone o repositório**:
