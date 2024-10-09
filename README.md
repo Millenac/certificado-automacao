@@ -28,7 +28,8 @@ O projeto **Automação de Certificado** é uma ferramenta desenvolvida em Pytho
 
 Veja o vídeo mostrando o funcionamento do código:
 
-https://github.com/user-attachments/assets/a6cb3e83-cfe4-4fc9-abc0-217af62eb037
+[Assista ao vídeo aqui]([https://link-do-video.com](https://youtu.be/kY85-Uy149E))
+
 
 ## Como Usar
 
