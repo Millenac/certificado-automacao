@@ -24,6 +24,12 @@ O projeto **Automação de Certificado** é uma ferramenta desenvolvida em Pytho
 
 - **Time**: Biblioteca padrão do Python que permite controlar o tempo de espera entre as ações automáticas, garantindo que as interações com a interface gráfica ocorram de forma sincronizada e evitando erros devido à velocidade de execução.
 
+## Demonstração do Projeto
+
+Veja o vídeo mostrando o funcionamento do código:
+
+https://github.com/user-attachments/assets/a6cb3e83-cfe4-4fc9-abc0-217af62eb037
+
 ## Como Usar
 
 1. **Clone o repositório**:
