@@ -1,8 +1,8 @@
-# Certificado Automação
+# Automação de Certificado 
 
 ## Descrição
 
-O projeto **Certificado Automação** é uma ferramenta desenvolvida em Python para gerar e enviar certificados personalizados automaticamente via e-mail. Através da leitura de uma base de dados em formato CSV, o programa cria certificados em PDF com os nomes dos alunos e envia-os para os respectivos e-mails.
+O projeto **Automação de Certificado** é uma ferramenta desenvolvida em Python para gerar e enviar certificados personalizados automaticamente via e-mail. Através da leitura de uma base de dados em formato CSV, o programa cria certificados em PDF com os nomes dos alunos e envia-os para os respectivos e-mails.
 
 ## Funcionalidades
 
