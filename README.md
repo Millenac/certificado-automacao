@@ -27,7 +27,20 @@ O projeto **Certificado Automação** é uma ferramenta desenvolvida em Python p
 
 ## Estrutura do Projeto
 
-Automação Certificado/ │ ├── banco_dados/ │ └── base_dados_copy.csv # Base de dados com nomes e e-mails dos alunos │ ├── certificados/ │ └── template.png # Imagem do template do certificado │ ├── fontes/ │ └── PINYONSCRIPT-REGULAR.TTF # Fonte utilizada no certificado │ └── scripts/ └── automacao_certificado.py # Script principal do projeto
+Automação Certificado/ 
+├── banco_dados/ 
+│ └── base_dados_copy.csv 
+# Base de dados com nomes e e-mails dos alunos 
+├── certificados/ 
+│ └── template.png 
+# Imagem do template do certificado 
+├── fontes/ 
+│ └── PINYONSCRIPT-REGULAR.TTF 
+# Fonte utilizada no certificado 
+└── scripts/ 
+└── automacao_certificado.py 
+└── posicao.py
+# Script principal do projeto
 
 
 
